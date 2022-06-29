@@ -1,0 +1,24 @@
+{
+  "name": "javascript-tutorial",
+  "version": "1.0.0",
+  "description": "this is indepth javascript tutroial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akash-Trivedi/javascript-tutorial.git"
+  },
+  "keywords": [
+    "tutorial",
+    "javascript",
+    "core"
+  ],
+  "author": "Akash Trivedi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Akash-Trivedi/javascript-tutorial/issues"
+  },
+  "homepage": "https://github.com/Akash-Trivedi/javascript-tutorial#readme"
+}
