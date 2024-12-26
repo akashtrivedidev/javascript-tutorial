@@ -5,14 +5,14 @@
 		}
 	],
 	"settings": {
-		"workbench.colorTheme": "Plain Theme VSCode",
-		"editor.fontFamily": "Consolas",
-		"editor.fontSize": 20,
-		"terminal.integrated.fontSize": 18,
-		"terminal.integrated.fontFamily": "Inconsolata",
+		"workbench.colorTheme": "Visual Studio Dark",
+		"editor.fontFamily": "jetbrains mono",
+		"editor.fontSize": 15,
+		"terminal.integrated.fontSize": 14,
+		"terminal.integrated.fontFamily": "jetbrains mono",
 		"editor.glyphMargin": false,
-		"languageTool.enabled": true,
-		"languageTool.language": "en",
+		"editor.formatOnSave": true,
+		"editor.defaultFormatter": "esbenp.prettier-vscode",
 		"editor.minimap.enabled": false
 	}
 }
